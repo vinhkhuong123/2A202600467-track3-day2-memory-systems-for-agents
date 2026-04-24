@@ -1,6 +1,6 @@
 # Benchmark Lab 17: Multi-Memory Agent
 
-**Học viên:** (Tên của bạn)
+**Học viên:** 2A202600467 - Khương Quang Vinh
 **Cấu hình Agent:** LangGraph với 4 loại memory backends (Short-term, Long-term FakeRedis, Episodic JSON, Semantic ChromaDB). Context Manager giới hạn budget token: 400.
 
 ---
